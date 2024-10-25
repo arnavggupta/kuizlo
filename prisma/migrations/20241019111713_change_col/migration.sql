@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Notes" ALTER COLUMN "userId" SET DATA TYPE TEXT;
